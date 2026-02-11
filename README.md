@@ -74,9 +74,10 @@
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <div align="center">
-  <!-- Simplified URLs to fix broken images -->
-  <img src="https://github-readme-stats.vercel.app/api?username=number1coder01&show_icons=true&theme=novatorem&hide_border=true&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=number1coder01&layout=compact&theme=novatorem&hide_border=true&langs_count=8" height="180" alt="languages graph"  />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=number1coder01&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="stats graph" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=number1coder01&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="languages graph" />
 </div>
 
 <br/>
@@ -116,6 +117,11 @@
     <td><a href="#"><strong>✅ Task Manager</strong></a></td>
     <td>Scalable REST API with JWT authentication, role-based access & automated email notifications.</td>
     <td><code>MongoDB</code> <code>Express</code></td>
+  </tr>
+  <tr>
+    <td><a href="https://node-weather-website-1-98ci.onrender.com"><strong>☁️ Weather App</strong></a></td>
+    <td>Live weather forecasting with responsive design, fetching real-time data from external APIs.</td>
+    <td><code>Node.js</code> <code>EJS</code></td>
   </tr>
    <tr>
     <td><a href="#"><strong>🏆 SIH Project</strong></a></td>
