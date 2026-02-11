@@ -26,10 +26,10 @@
 
 <br/>
 
-<!-- About Me & Stats Side-by-Side -->
+<!-- About Me & LeetCode Graph Side-by-Side -->
 <table align="center" border="0">
   <tr>
-    <td width="50%" valign="top">
+    <td width="55%" valign="top">
       <h2>👨‍💻 About Me</h2>
       <br/>
       <ul>
@@ -41,9 +41,13 @@
         <li>☁️ Team Member at <strong>GDG DTU</strong> & <strong>AWS Cloud Club</strong>.</li>
       </ul>
     </td>
-    <td width="50%" valign="top" align="center">
-      <h2>📊 Weekly Activity</h2>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=number1coder01&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+    <td width="45%" valign="top" align="center">
+      <h2>📊 Consistency</h2>
+      <!-- REPLACE 'assets/leetcode-graph.png' WITH YOUR UPLOADED SCREENSHOT -->
+      <img src="assets/leetcode-graph.png" width="100%" alt="LeetCode Activity Screenshot" />
+      <br/><br/>
+      <!-- Snake Animation (Cool Extra) -->
+      <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
     </td>
   </tr>
 </table>
@@ -70,8 +74,9 @@
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=number1coder01&show_icons=true&theme=omni&hide_border=true&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=number1coder01&layout=compact&theme=omni&hide_border=true&langs_count=8" height="180" alt="languages graph"  />
+  <!-- Simplified URLs to fix broken images -->
+  <img src="https://github-readme-stats.vercel.app/api?username=number1coder01&show_icons=true&theme=novatorem&hide_border=true&count_private=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=number1coder01&layout=compact&theme=novatorem&hide_border=true&langs_count=8" height="180" alt="languages graph"  />
 </div>
 
 <br/>
@@ -80,8 +85,9 @@
 <h2 align="center">🧠 LeetCode Progress</h2>
 
 <div align="center">
+  <!-- Alternative LeetCode Card Provider -->
   <a href="https://leetcode.com/u/Kaartik_Arora/">
-    <img src="https://leetcode-stats-six.vercel.app/?username=Kaartik_Arora&theme=dark&font=Inter" width="80%" alt="leetcode stats"/>
+    <img src="https://leetcard.jacoblin.cool/Kaartik_Arora?theme=dark&font=Inter&ext=heatmap" width="80%" alt="leetcode stats"/>
   </a>
 </div>
 
@@ -110,6 +116,11 @@
     <td><a href="#"><strong>✅ Task Manager</strong></a></td>
     <td>Scalable REST API with JWT authentication, role-based access & automated email notifications.</td>
     <td><code>MongoDB</code> <code>Express</code></td>
+  </tr>
+   <tr>
+    <td><a href="#"><strong>🏆 SIH Project</strong></a></td>
+    <td>(Add description of your Smart India Hackathon project here...)</td>
+    <td><code>Tech Stack</code></td>
   </tr>
 </table>
 
