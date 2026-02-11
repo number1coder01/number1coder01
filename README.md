@@ -31,7 +31,6 @@
   <tr>
     <td width="55%" valign="top">
       <h2>👨‍💻 About Me</h2>
-      <br/>
       <ul>
         <li>🎓 <strong>B.Tech IT</strong> at <strong>Delhi Technological University</strong>.</li>
         <li>💼 Ex-<strong>Java Backend Intern</strong> at <strong>Wells Fargo</strong>.</li>
@@ -44,7 +43,7 @@
     <td width="45%" valign="top" align="center">
       <h2>📊 Consistency</h2>
       <!-- REPLACE 'assets/leetcode-graph.png' WITH YOUR UPLOADED SCREENSHOT -->
-      <img src="assets/leetcode-graph.png" width="100%" alt="LeetCode Activity Screenshot" />
+      <img src="assets/leetcode-graph.png" width="100%"/>
       <br/><br/>
       <!-- Snake Animation (Cool Extra) -->
       <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
@@ -75,9 +74,9 @@
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=number1coder01&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=number1coder01&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" />
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=number1coder01&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=number1coder01&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" />
 </div>
 
 <br/>
