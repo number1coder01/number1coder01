@@ -35,19 +35,22 @@
         <li>🎓 <strong>B.Tech IT</strong> at <strong>Delhi Technological University</strong>.</li>
         <li>💼 Ex-<strong>Java Backend Intern</strong> at <strong>Wells Fargo</strong>.</li>
         <li>🚀 Building <strong>high-performance backend systems</strong>.</li>
-        <li>🧠 <strong>1000+ DSA Problems</strong> solved across platforms.</li>
+        <li>🧠 <strong>1000+ DSA problems </strong> solved across LeetCode, GFG & HackerRank.</li>
         <li>🌟 <strong>LeetCode Rating: 1774</strong> (Top 8%).</li>
         <li>☁️ Team Member at <strong>GDG DTU</strong> & <strong>AWS Cloud Club</strong>.</li>
       </ul>
     </td>
     <td width="45%" valign="top" align="center">
-      <h2>📊 Consistency</h2>
-      <!-- REPLACE 'assets/leetcode-graph.png' WITH YOUR UPLOADED SCREENSHOT -->
-      <img src="assets/leetcode-graph.png" width="100%"/>
-      <br/><br/>
-      <!-- Snake Animation (Cool Extra) -->
-      <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+    <h2>📊 Consistency</h2>
+    
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=number1coder01&theme=tokyo-night&hide_border=true"/>
+    
+    <br/><br/>
+    
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    
     </td>
+
   </tr>
 </table>
 
@@ -123,9 +126,9 @@
     <td><code>Node.js</code> <code>EJS</code></td>
   </tr>
    <tr>
-    <td><a href="#"><strong>🏆 SIH Project</strong></a></td>
-    <td>(Add description of your Smart India Hackathon project here...)</td>
-    <td><code>Tech Stack</code></td>
+    <td><a href="#"><strong>🏆 Smart India Hackathon Project</strong></a></td>
+    <td>Developed SmartTrack — a traffic & route intelligence platform with real-time visualization and modular frontend architecture designed for scalable city-level deployment.</td>
+    <td><code>Bootstrap</code>code><code>Node,js</code></td>
   </tr>
 </table>
 
