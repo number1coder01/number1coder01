@@ -41,16 +41,13 @@
       </ul>
     </td>
     <td width="45%" valign="top" align="center">
-      <h2>📊 Consistency</h2>
-
-      <!-- Snake Animation ONLY -->
-<img 
-  src="https://raw.githubusercontent.com/number1coder01/number1coder01/output/github-contribution-grid-snake.svg" 
-  style="max-width:100%; height:auto;" 
-  alt="Snake Animation"/>
-
-    </td>
-  </tr>
+  <h2>📊 Consistency</h2>
+  <br/>
+  <img 
+    src="https://raw.githubusercontent.com/number1coder01/number1coder01/output/github-contribution-grid-snake.svg" 
+    width="100%" 
+    alt="Snake Animation"/>
+</td>
 </table>
 
 <br/>
