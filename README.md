@@ -43,7 +43,7 @@
     <td width="45%" valign="top" align="center">
       <h2>📊 Consistency</h2>
       <!-- REPLACE 'assets/GITHUB_STREAK.png' WITH YOUR UPLOADED SCREENSHOT -->
-      <img src="assets/leetcode-graph.png" width="100%"/>
+      <img src="assets/GITHUB_STREAK.png" width="100%"/>
       <br/><br/>
       <!-- Snake Animation (Cool Extra) -->
       <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
