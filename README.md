@@ -1,6 +1,6 @@
 <!-- Header with Typing Effect and Socials -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Hi+There!+I'm+Kaartik;Full+Stack+Developer;Java+B[...]
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Hi+There!+I'm+Kaartik;Full+Stack+Developer;Java+Backend+Engineer" />
   
   <p align="center">
      <a href="https://kaartikarora-dev.onrender.com">
@@ -26,7 +26,7 @@
 
 <br/>
 
-<!-- About Me & LeetCode Graph Side-by-Side -->
+<!-- About Me & Consistency -->
 <table align="center" border="0">
   <tr>
     <td width="55%" valign="top">
@@ -42,11 +42,10 @@
     </td>
     <td width="45%" valign="top" align="center">
       <h2>📊 Consistency</h2>
-      <!-- REPLACE 'assets/GITHUB_STREAK.png' WITH YOUR UPLOADED SCREENSHOT -->
-      <img src="assets/GITHUB_STREAK.png" width="100%"/>
-      <br/><br/>
-      <!-- Snake Animation (Cool Extra) -->
-      <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+
+      <!-- Snake Animation ONLY -->
+      <img src="https://raw.githubusercontent.com/number1coder01/number1coder01/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation"/>
+
     </td>
   </tr>
 </table>
@@ -57,13 +56,9 @@
 <h2 align="center">🛠️ Methodologies & Languages</h2>
 
 <div align="center">
-  <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts" /><br/>
-  <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" /><br/>
-  <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express" /><br/>
-  <!-- DB & Tools -->
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,postman,vscode" />
 </div>
 
@@ -73,9 +68,7 @@
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <div align="center">
-  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=number1coder01&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" />
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=number1coder01&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" />
 </div>
 
@@ -85,9 +78,8 @@
 <h2 align="center">🧠 LeetCode Progress</h2>
 
 <div align="center">
-  <!-- Alternative LeetCode Card Provider -->
   <a href="https://leetcode.com/u/Kaartik_Arora/">
-    <img src="https://leetcard.jacoblin.cool/Kaartik_Arora?theme=dark&font=Inter&ext=heatmap" width="80%" alt="leetcode stats"/>
+    <img src="https://leetcard.jacoblin.cool/Kaartik_Arora?theme=dark&font=Inter" width="80%" alt="leetcode stats"/>
   </a>
 </div>
 
@@ -122,7 +114,7 @@
     <td>Live weather forecasting with responsive design, fetching real-time data from external APIs.</td>
     <td><code>Node.js</code> <code>EJS</code></td>
   </tr>
-   <tr>
+  <tr>
     <td><a href=""><strong>🏆 SIH Project</strong></a></td>
     <td>(Add description of your Smart India Hackathon project here...)</td>
     <td><code>Tech Stack</code></td>
