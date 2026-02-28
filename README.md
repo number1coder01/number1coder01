@@ -33,7 +33,7 @@
       <h2>👨‍💻 About Me</h2>
       <ul>
         <li>🎓 <strong>B.Tech IT</strong> at <strong>Delhi Technological University</strong>.</li>
-        <li>💼 Ex-<strong>Java Backend Intern</strong> at <strong>Wells Fargo</strong>.</li>
+        <li>💼 <strong>Java Backend Intern</strong> at <strong>Wells Fargo</strong>.</li>
         <li>🚀 Building <strong>high-performance backend systems</strong>.</li>
         <li>🧠 <strong>1000+ DSA Problems</strong> solved across platforms.</li>
         <li>🌟 <strong>LeetCode Rating: 1774</strong> (Top 8%).</li>
@@ -43,10 +43,19 @@
     <td width="45%" valign="top" align="center">
   <h2>📊 Consistency</h2>
   <br/>
+
+  <!-- Leetcode Streak -->
+  <img 
+    src="assets/LEETCODE_STREAK.png" 
+    style="width:100%; max-width:420px; height:auto; display:block; margin:0 auto 20px auto;" 
+    alt="Leetcode Streak"/>
+
+  <!-- Snake Animation -->
   <img 
     src="https://raw.githubusercontent.com/number1coder01/number1coder01/output/github-contribution-grid-snake.svg" 
-    width="100%" 
+    style="width:100%; height:auto; display:block; margin:auto;" 
     alt="Snake Animation"/>
+
 </td>
 </table>
 
