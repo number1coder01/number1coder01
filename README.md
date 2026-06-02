@@ -1,349 +1,372 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                        KAARTIK ARORA                              -->
-<!--                   GitHub Profile README                           -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                     K A A R T I K   A R O R A                   ║ -->
+<!-- ║              — GitHub Profile v3 · Engineered to Impress —      ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-<!-- ─────────────── HERO ─────────────── -->
+<!-- ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ HEADER ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ -->
+
+<img src="assets/banner.png" width="100%" alt="Kaartik Arora Banner" />
+
 <div align="center">
-
-  <!-- Typing animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=40&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hi%2C+I'm+Kaartik+Arora+%F0%9F%91%8B;Software+Engineer+%E2%80%A2+Builder+%E2%80%A2+Problem+Solver" alt="Typing SVG" />
-
-  <br/>
-
-  <samp>Building AI-powered products, scalable backend systems, cloud workflows, and interactive web experiences.</samp>
-
-  <br/><br/>
-
-  <!-- CTA Badges -->
-  <a href="https://kaartikarora-dev.onrender.com">
-    <img src="https://img.shields.io/badge/Portfolio-kaartikarora.dev-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://drive.google.com/file/d/1emgdC8KTqcL35wki3gfRyMvOpwYnp0Hd/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-Download_PDF-10B981?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Social Links -->
-  <a href="https://linkedin.com/in/kaartikarora01"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="mailto:kaartikarora0001@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
-  <a href="https://leetcode.com/u/Kaartik_Arora/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>&nbsp;
-  <a href="https://github.com/number1coder01"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-
-  <br/>
-
-  <img src="https://komarev.com/ghpvc/?username=number1coder01&style=flat-square&color=00E5FF&label=Profile+Views" alt="profile views" />
-
+  <a href="https://kaartikarora-dev.onrender.com"><img src="https://img.shields.io/badge/%E2%9C%A6_Portfolio-00E5FF?style=for-the-badge&logoColor=black" /></a>
+  <a href="https://drive.google.com/file/d/1emgdC8KTqcL35wki3gfRyMvOpwYnp0Hd/view?usp=sharing"><img src="https://img.shields.io/badge/%E2%87%A9_Resume-10B981?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/kaartikarora01"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Kaartik_Arora/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:kaartikarora0001@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <br/>
 
-<!-- ─────────────── ABOUT + HIGHLIGHTS ─────────────── -->
-
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="55%" valign="top">
-
-### 👨‍💻 About Me
-
-- 🎓 **B.Tech IT** at **Delhi Technological University** (CGPA: 8.867)
-- 💼 **SDE Intern** at **Wells Fargo** (5/3000+ selected)
-- 🚀 Building **AI-powered products** & **scalable backend systems**
-- 🧠 **1250+ DSA Problems** solved across platforms
-- 🌟 **LeetCode Rating: 1810** (Top 6%)
-- ☁️ Technical Team at **GDG DTU** & **AWS Cloud Club DTU**
-- 🎯 **Adobe India Hackathon** — Top 1.5%
-- 🥇 **Invictus BITS** — 1st Place Winner
-
-</td>
-    <td width="45%" valign="top" align="center">
-
-### 📊 Consistency
-
-<!-- LeetCode Streak -->
-<img src="assets/LEETCODE_STREAK.png" width="100%" alt="LeetCode Streak" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+AI-powered+products+%26+scalable+systems;1810+LeetCode+%C2%B7+Wells+Fargo+%C2%B7+DTU+%C2%B7+Top+6%25" />
+</div>
 
 <br/>
 
-<!-- Snake Animation -->
+<!-- ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ STATS BANNER ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ -->
+
+<div align="center">
+<table>
+<tr>
+<td align="center"><b>🏆 1810</b><br/><sub>LeetCode Rating</sub></td>
+<td align="center"><b>💯 1250+</b><br/><sub>Problems Solved</sub></td>
+<td align="center"><b>💼 Wells Fargo</b><br/><sub>SDE Intern</sub></td>
+<td align="center"><b>🥇 1st Place</b><br/><sub>Invictus BITS</sub></td>
+<td align="center"><b>🎯 Top 1.5%</b><br/><sub>Adobe Hackathon</sub></td>
+<td align="center"><b>📈 98.8%ile</b><br/><sub>JEE Mains</sub></td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<!-- ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ ABOUT ME ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=1&section=header" width="100%" />
+
+<table align="center">
+<tr>
+<td width="60%" valign="top">
+
+## `> whoami`
+
+```js
+const kaartik = {
+  education  : "B.Tech IT @ Delhi Technological University",
+  cgpa       : 8.867,
+  role       : "SDE Intern @ Wells Fargo (5 / 3000+ selected)",
+  communities: ["GDG DTU", "AWS Cloud Club DTU"],
+  focus      : ["AI Products", "Scalable Backends", "Cloud Architecture"],
+  funFact    : "I debug code in my dreams."
+};
+```
+
+</td>
+<td width="40%" valign="top" align="center">
+
+## `> uptime`
+
+<img src="assets/LEETCODE_STREAK.png" width="95%" />
+
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/number1coder01/number1coder01/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/number1coder01/number1coder01/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/number1coder01/number1coder01/output/github-contribution-grid-snake.svg" width="100%" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/number1coder01/number1coder01/output/github-contribution-grid-snake.svg" width="95%" />
 </picture>
 
 </td>
-  </tr>
+</tr>
 </table>
 
 <br/>
 
-<!-- ─────────────── ENGINEERING HIGHLIGHTS ─────────────── -->
+<!-- ▄▄▄▄▄▄▄▄▄▄▄ FEATURED: RESUMIND ▄▄▄▄▄▄▄▄▄▄▄ -->
 
 <div align="center">
 
-### 📊 Engineering Highlights
+## `🧠 Featured Product`
 
-| Achievement | Details |
-|:---:|:---:|
-| 🏆 **LeetCode Rating** | **1810** |
-| 💯 **Problems Solved** | **1250+** |
-| 💼 **Internship** | **Wells Fargo** |
-| 🥇 **Invictus BITS** | **1st Place** |
-| 🎯 **Adobe Hackathon** | **Top 1.5%** |
-| 🎓 **Education** | **B.Tech IT @ DTU** |
-| 📈 **JEE Mains** | **98.8 Percentile** |
-| 🏅 **JEE Advanced** | **AIR 14450** |
-| 🔥 **Wells Fargo Selection** | **5 / 3000+** |
-
-</div>
-
-<br/>
-
-<!-- ─────────────── FEATURED PRODUCT: RESUMIND ─────────────── -->
-
-<div align="center">
-
-## 🌟 Featured Product — Resumind
+<img src="https://capsule-render.vercel.app/api?type=soft&color=00E5FF&height=45&section=header&text=R%20E%20S%20U%20M%20I%20N%20D&fontSize=20&fontColor=0D1117&fontAlignY=55" width="300" />
 
 **AI-powered Resume Intelligence Platform**
 
 </div>
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50%" valign="top">
+<br/>
 
-#### 🔍 The Problem
-Most resume analyzers provide shallow ATS scores and generic feedback — they fail to address industry-specific requirements, phrasing impact, and real recruiter behavior.
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-#### 💡 The Solution
-Resumind combines modern LLMs (OpenAI + Claude) to generate **deep technical resume reviews**, improvement suggestions, recruiter-focused feedback, and career guidance.
+### The Problem
 
-#### Tech Stack
+> Most resume analyzers provide **shallow ATS scores** and generic feedback — they fail to address industry-specific requirements, phrasing impact, and real recruiter behavior.
+
+### The Solution
+
+> Resumind combines **OpenAI + Claude** to generate deep technical resume reviews, improvement suggestions, recruiter-focused feedback, and career guidance.
+
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-20232A?style=flat&logo=nodedotjs&logoColor=339933" />
+<img src="https://img.shields.io/badge/OpenAI-20232A?style=flat&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-20232A?style=flat&logo=anthropic&logoColor=D97757" />
+<img src="https://img.shields.io/badge/Tailwind-20232A?style=flat&logo=tailwindcss&logoColor=06B6D4" />
 </p>
 
 </td>
-    <td width="50%" valign="top">
+<td width="50%" valign="top">
 
-#### 🏗 Architecture
+### Architecture
 
 ```
-         ┌─────────────────┐
-         │  Resume Upload   │
-         └────────┬────────┘
-                  ▼
-         ┌─────────────────┐
-         │  Resume Parser   │
-         └────────┬────────┘
-                  ▼
-    ┌─────────────┴─────────────┐
-    │                           │
-┌───┴───────┐          ┌───────┴───┐
-│ OpenAI API│          │Claude API │
-└───┬───────┘          └───────┬───┘
-    │                           │
-    └─────────────┬─────────────┘
-                  ▼
-         ┌─────────────────┐
-         │ Analysis Engine  │
-         └────────┬────────┘
-                  ▼
-         ┌─────────────────┐
-         │ Structured Report│
-         └────────┬────────┘
-                  ▼
-         ┌─────────────────┐
-         │  User Dashboard  │
-         └─────────────────┘
+          ╭─────────────────╮
+          │  Resume Upload   │
+          ╰────────┬────────╯
+                   │
+          ╭────────▼────────╮
+          │  Resume Parser   │
+          ╰────────┬────────╯
+                   │
+       ╭───────────┴───────────╮
+       │                       │
+  ╭────▼─────╮          ╭─────▼────╮
+  │  OpenAI  │          │  Claude  │
+  ╰────┬─────╯          ╰─────┬───╯
+       │                       │
+       ╰───────────┬───────────╯
+                   │
+          ╭────────▼────────╮
+          │ Analysis Engine  │
+          ╰────────┬────────╯
+                   │
+          ╭────────▼────────╮
+          │   Smart Report   │
+          ╰────────┬────────╯
+                   │
+          ╭────────▼────────╮
+          │  User Dashboard  │
+          ╰─────────────────╯
 ```
 
 </td>
-  </tr>
+</tr>
 </table>
 
 <br/>
 
-<!-- ─────────────── PROJECT SHOWCASE ─────────────── -->
+<!-- ▄▄▄▄▄▄▄▄▄▄▄▄▄▄ PROJECTS ▄▄▄▄▄▄▄▄▄▄▄▄▄▄ -->
 
 <div align="center">
 
-## 🏗 Project Showcase
+## `🏗 Project Showcase`
 
 </div>
 
-<table align="center">
-  <tr>
-    <th width="25%">Project</th>
-    <th width="45%">Description</th>
-    <th width="15%">Tech</th>
-    <th width="15%">Link</th>
-  </tr>
-  <tr>
-    <td><strong>🧠 Resumind</strong></td>
-    <td>AI-powered resume intelligence platform leveraging multiple LLMs for advanced resume evaluation and optimization.</td>
-    <td><code>OpenAI</code> <code>Claude</code> <code>React</code></td>
-    <td align="center">—</td>
-  </tr>
-  <tr>
-    <td><strong>📊 ETL Pipeline</strong></td>
-    <td>Cloud-based analytics workflow using AWS and Google Looker Studio for automated data processing and reporting.</td>
-    <td><code>AWS</code> <code>Looker</code> <code>Data Eng</code></td>
-    <td align="center">—</td>
-  </tr>
-  <tr>
-    <td><strong>🏠 Roomify</strong></td>
-    <td>AI-powered room visualization transforming 2D spaces into photorealistic 3D outputs using advanced image processing.</td>
-    <td><code>React</code> <code>TypeScript</code> <code>Puter</code></td>
-    <td align="center">—</td>
-  </tr>
-  <tr>
-    <td><strong>💬 Realtime Chat</strong></td>
-    <td>High-performance WebSocket chat supporting 2000+ concurrent connections, 100+ rooms, geo-sharing & profanity filter.</td>
-    <td><code>Socket.IO</code> <code>Node.js</code></td>
-    <td align="center"><a href="https://chat-application-qaut.onrender.com">Live</a></td>
-  </tr>
-  <tr>
-    <td><strong>🛒 E-Commerce</strong></td>
-    <td>Production-grade MERN application with JWT auth, role-based access, admin dashboard, and email automation.</td>
-    <td><code>React</code> <code>MongoDB</code> <code>Express</code></td>
-    <td align="center">—</td>
-  </tr>
-  <tr>
-    <td><strong>💼 Job Portal</strong></td>
-    <td>Modern React-based job portal with structured job listings, authentication flow, and responsive UI.</td>
-    <td><code>React</code> <code>Tailwind</code></td>
-    <td align="center"><a href="https://github.com/number1coder01/job-portal-react">Repo</a></td>
-  </tr>
-  <tr>
-    <td><strong>💻 MacBook 3D</strong></td>
-    <td>Interactive Three.js + GSAP experience with scroll-driven 3D storytelling and 60FPS animations.</td>
-    <td><code>Three.js</code> <code>GSAP</code> <code>React</code></td>
-    <td align="center">—</td>
-  </tr>
-</table>
-
+<!-- Project 1 -->
+<details>
+<summary><b>📊 ETL Analytics Pipeline</b> — Cloud-native data engineering workflow</summary>
 <br/>
+<table><tr><td>
 
-<!-- ─────────────── ENGINEERING JOURNEY ─────────────── -->
-
-<div align="center">
-
-## 🧠 Engineering Journey
+**Cloud-based analytics workflow using AWS and Google Looker Studio for automated data processing and reporting.**
 
 ```
-2022  ─────  Started Programming
-              │
-2023  ─────  Java + Data Structures & Algorithms
-              │
-2024  ─────  Full Stack Development  ·  Joined GDG DTU  ·  AWS Cloud Club
-              │
-2025  ─────  Adobe India Hackathon (Top 1.5%)  ·  1810 LeetCode Rating
-              │
-2026  ─────  Wells Fargo Internship  ·  Built Resumind
-              │
- ∞    ─────  Building AI & Cloud Products ▸▸▸
+Raw Data Sources ──▶ Data Extraction ──▶ Transformation Layer ──▶ AWS Processing ──▶ Storage ──▶ Looker Studio ──▶ Dashboard
+```
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900" /> <img src="https://img.shields.io/badge/Data_Engineering-0D1117?style=flat&logo=apache-spark&logoColor=E25A1C" /> <img src="https://img.shields.io/badge/Looker-4285F4?style=flat&logo=looker&logoColor=white" />
+
+</td></tr></table>
+</details>
+
+<!-- Project 2 -->
+<details>
+<summary><b>🏠 Roomify</b> — AI-powered room visualization platform</summary>
+<br/>
+<table><tr><td>
+
+**AI-powered room visualization transforming 2D spaces into photorealistic 3D outputs using advanced image processing.**
+
+```
+Room Image ──▶ AI Processing ──▶ 3D Generation ──▶ Visualization ──▶ Final Design
+```
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+
+</td></tr></table>
+</details>
+
+<!-- Project 3 -->
+<details>
+<summary><b>💬 Realtime Chat Application</b> — 2000+ concurrent connections &nbsp; <a href="https://chat-application-qaut.onrender.com"><img src="https://img.shields.io/badge/Live-10B981?style=flat&logoColor=white" /></a></summary>
+<br/>
+<table><tr><td>
+
+**High-performance WebSocket-based chat application.**
+
+| Metric | Value |
+|:---|:---|
+| Concurrent Connections | **2000+** |
+| Chat Rooms | **100+** |
+| Latency | **~150ms** |
+| Features | Geo-sharing, Profanity Filter, Real-time |
+
+```
+Client ──▶ Socket.IO ──▶ Node.js Server ──▶ Room Manager ──▶ Users
+```
+
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
+
+</td></tr></table>
+</details>
+
+<!-- Project 4 -->
+<details>
+<summary><b>🛒 E-Commerce Platform</b> — Production-grade MERN application</summary>
+<br/>
+<table><tr><td>
+
+**Full-stack platform with JWT authentication, role-based access, admin dashboard, product management, and email automation.**
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+
+</td></tr></table>
+</details>
+
+<!-- Project 5 -->
+<details>
+<summary><b>💼 Job Portal</b> — Modern React recruitment platform &nbsp; <a href="https://github.com/number1coder01/job-portal-react"><img src="https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white" /></a></summary>
+<br/>
+<table><tr><td>
+
+**Modern React-based job portal with structured job listings, authentication flow, and responsive UI.**
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+
+</td></tr></table>
+</details>
+
+<!-- Project 6 -->
+<details>
+<summary><b>💻 MacBook 3D Landing Page</b> — Interactive Three.js + GSAP experience</summary>
+<br/>
+<table><tr><td>
+
+**Frontend excellence showcase utilizing Three.js and GSAP for 60FPS scroll-driven 3D animations and storytelling.**
+
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black" /> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+
+</td></tr></table>
+</details>
+
+<br/>
+
+<!-- ▄▄▄▄▄▄▄▄▄▄▄▄ JOURNEY ▄▄▄▄▄▄▄▄▄▄▄▄ -->
+
+<div align="center">
+
+## `⏳ Engineering Journey`
+
+```
+                                                                        ╭──── NOW ────╮
+                                                                        │              │
+  2022 ──────── 2023 ──────── 2024 ──────── 2025 ──────── 2026 ─────── │    FUTURE    │
+    │             │             │             │             │            │              │
+ Started       Java &       Full Stack     1810 LC      Wells Fargo    ╰──────────────╯
+Programming    DSA          + GDG DTU     Adobe Top     + Resumind       AI & Cloud
+                            + AWS Club      1.5%                         Products
 ```
 
 </div>
 
 <br/>
 
-<!-- ─────────────── TECH STACK ─────────────── -->
+<!-- ▄▄▄▄▄▄▄▄▄▄▄▄ TECH STACK ▄▄▄▄▄▄▄▄▄▄▄▄ -->
 
 <div align="center">
 
-## 🛠 Tech Stack
+## `🛠 Tech Stack`
 
-#### Languages
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp&theme=dark" />
-
-#### Backend
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,hibernate&theme=dark" />
-
-#### Frontend
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,threejs&theme=dark" />
-
-#### Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
-
-#### Cloud & Tools
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman&theme=dark" />
+| | Technologies |
+|:---|:---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp&theme=dark" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=spring,nodejs,express,hibernate&theme=dark" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,threejs&theme=dark" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" /> |
+| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman&theme=dark" /> |
 
 </div>
 
 <br/>
 
-<!-- ─────────────── GITHUB ANALYTICS ─────────────── -->
+<!-- ▄▄▄▄▄▄▄▄▄▄▄ GITHUB ANALYTICS ▄▄▄▄▄▄▄▄▄▄▄ -->
 
 <div align="center">
 
-## 📈 GitHub Analytics
+## `📈 GitHub Analytics`
 
-<img src="https://github-readme-stats.vercel.app/api?username=number1coder01&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=00E5FF&title_color=00E5FF&text_color=A1A1AA&bg_color=0D1117" height="175" />&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=number1coder01&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=00E5FF&text_color=A1A1AA&bg_color=0D1117" height="175" />
+<img src="https://github-profile-trophy.vercel.app/?username=number1coder01&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
 
 <br/><br/>
 
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=number1coder01&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=10B981&currStreakLabel=00E5FF&sideLabels=A1A1AA&dates=A1A1AA" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api?username=number1coder01&show_icons=true&hide_border=true&count_private=true&icon_color=00E5FF&title_color=00E5FF&text_color=A1A1AA&bg_color=0D1117" height="170" />&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=number1coder01&layout=compact&hide_border=true&langs_count=8&title_color=00E5FF&text_color=A1A1AA&bg_color=0D1117" height="170" />
 
 <br/><br/>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=number1coder01&theme=github-compact&hide_border=true&bg_color=0D1117&color=A1A1AA&line=00E5FF&point=10B981&area=true&area_color=00E5FF" width="95%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=number1coder01&hide_border=true&background=0D1117&stroke=00E5FF33&ring=00E5FF&fire=10B981&currStreakLabel=00E5FF&sideLabels=A1A1AA&dates=A1A1AA&currStreakNum=FFFFFF&sideNums=FFFFFF" width="55%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=number1coder01&theme=react-dark&hide_border=true&bg_color=0D1117&color=A1A1AA&line=00E5FF&point=10B981&area=true&area_color=00E5FF" width="90%" />
 
 </div>
 
 <br/>
 
-<!-- ─────────────── LEETCODE STATS ─────────────── -->
+<!-- ▄▄▄▄▄▄▄▄▄▄▄ LEETCODE ▄▄▄▄▄▄▄▄▄▄▄ -->
 
 <div align="center">
 
-## 🎯 Competitive Programming
+## `🎯 Competitive Programming`
 
 <a href="https://leetcode.com/u/Kaartik_Arora/">
-  <img src="https://leetcard.jacoblin.cool/Kaartik_Arora?theme=dark&font=Inter&ext=contest&border=0" width="65%" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Kaartik_Arora?theme=dark&font=JetBrains+Mono&ext=contest&border=0&radius=12" width="55%" />
 </a>
 
 <br/><br/>
 
-`1810 Rating` · `1250+ Solved` · `Top 6%` · `Active Contest Participant`
+`Rating: 1810` &nbsp;·&nbsp; `1250+ Solved` &nbsp;·&nbsp; `Top 6%` &nbsp;·&nbsp; `Active Contestant`
 
 </div>
 
 <br/>
 
-<!-- ─────────────── CURRENTLY LEARNING ─────────────── -->
+<!-- ▄▄▄▄▄▄▄▄▄▄ LEARNING ▄▄▄▄▄▄▄▄▄▄ -->
 
 <div align="center">
 
-## 🌱 Currently Learning
+## `🌱 Currently Exploring`
 
-<img src="https://img.shields.io/badge/Distributed_Systems-0D1117?style=for-the-badge&logo=apache-kafka&logoColor=00E5FF" />&nbsp;
-<img src="https://img.shields.io/badge/System_Design-0D1117?style=for-the-badge&logo=diagrams.net&logoColor=00E5FF" />&nbsp;
-<img src="https://img.shields.io/badge/Cloud_Architecture-0D1117?style=for-the-badge&logo=amazonaws&logoColor=00E5FF" />&nbsp;
-<img src="https://img.shields.io/badge/AI_Agents-0D1117?style=for-the-badge&logo=openai&logoColor=00E5FF" />&nbsp;
+<img src="https://img.shields.io/badge/Distributed_Systems-0D1117?style=for-the-badge&logo=apache-kafka&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/System_Design-0D1117?style=for-the-badge&logo=diagrams.net&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Cloud_Architecture-0D1117?style=for-the-badge&logo=amazonaws&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/AI_Agents-0D1117?style=for-the-badge&logo=openai&logoColor=00E5FF" />
 <img src="https://img.shields.io/badge/Data_Engineering-0D1117?style=for-the-badge&logo=apache-spark&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Scalable_Backends-0D1117?style=for-the-badge&logo=spring&logoColor=00E5FF" />
 
 </div>
 
 <br/>
 
-<!-- ─────────────── FOOTER ─────────────── -->
+<!-- ▄▄▄▄▄▄▄▄▄▄▄▄▄▄ FOOTER ▄▄▄▄▄▄▄▄▄▄▄▄▄▄ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00E5FF,100:0D1117&height=120&section=footer" width="100%" />
 
 <div align="center">
-
----
 
 <samp>
 
@@ -353,10 +376,14 @@ Resumind combines modern LLMs (OpenAI + Claude) to generate **deep technical res
 
 <br/>
 
-<a href="https://kaartikarora-dev.onrender.com"><img src="https://img.shields.io/badge/Portfolio-00E5FF?style=flat-square&logo=google-chrome&logoColor=black" /></a>&nbsp;
+<a href="https://kaartikarora-dev.onrender.com"><img src="https://img.shields.io/badge/✦_Portfolio-00E5FF?style=flat-square&logoColor=black" /></a>&nbsp;
 <a href="https://linkedin.com/in/kaartikarora01"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="mailto:kaartikarora0001@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
 <a href="https://leetcode.com/u/Kaartik_Arora/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=number1coder01&style=flat-square&color=00E5FF&label=Visitors" />
 
 </div>
 
