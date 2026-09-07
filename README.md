@@ -18,7 +18,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+AI-powered+products+%26+scalable+systems;1810+LeetCode+%C2%B7+Wells+Fargo+%C2%B7+DTU+%C2%B7+Top+6%25" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Building+Agentic+AI+products+%26+scalable+systems;1810+LeetCode+%C2%B7+Wells+Fargo+%C2%B7+DTU+%C2%B7+Top+6%25;Cloud+Pipelines+%C2%B7+Full-Stack+%C2%B7+1250%2B+Problems+Solved" />
 </div>
 
 <br/>
@@ -27,9 +27,9 @@
 
 <div align="center">
 
-| 🏆 1810 | 💯 1250+ | 💼 Wells Fargo | 🥇 1st Place | 🎯 Top 1.5% | 📈 98.8%ile |
+| 🏆 1810 | 💯 1250+ | 💼 Wells Fargo | 🥇 1st Place | 🎯 Top 1.5% | 📈 8.98 CGPA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| LeetCode Rating | Problems Solved | SDE Intern | Invictus BITS | Adobe Hackathon | JEE Mains |
+| LeetCode Rating | Problems Solved | Tech Intern | Invictus BITS | Adobe Hackathon | DTU IT (SGPA 9.44) |
 
 </div>
 
@@ -43,11 +43,12 @@
 
 ```js
 const kaartik = {
-  education  : "B.Tech IT @ Delhi Technological University",
-  cgpa       : 8.867,
-  role       : "SDE Intern @ Wells Fargo (5 / 3000+ selected)",
-  communities: ["GDG DTU", "AWS Cloud Club DTU"],
-  focus      : ["AI Products", "Scalable Backends", "Cloud Architecture"],
+  education  : "B.Tech IT @ Delhi Technological University (DTU)",
+  academics  : { cgpa: 8.98, sgpa: 9.44, classX: "98.2%", classXII: "93%" },
+  role       : "Technology Program Intern @ Wells Fargo",
+  communities: ["Tech Team @ GDG DTU", "Tech Team @ AWS DTU"],
+  focus      : ["Agentic AI & RAG", "Scalable Backends", "Cloud & Data Engineering"],
+  impact     : "Automated enterprise onboarding from 8-10 days to <30s",
   funFact    : "I debug code in my dreams."
 };
 ```
@@ -68,6 +69,22 @@ const kaartik = {
 
 <br/>
 
+<!-- ▄▄▄▄▄▄▄▄▄▄▄ EXPERIENCE HIGHLIGHTS ▄▄▄▄▄▄▄▄▄▄▄ -->
+
+## `💼 Professional Experience`
+
+### 🏢 **Wells Fargo** · *Technology Program Intern* `Jun 2026 – Present`
+- **SSO Onboarding Automation:** Operationalized Playwright-based onboarding automation that provisions user roles and entitlements through AIMS using enterprise SSO — reducing onboarding cycle time from **8–10 days down to under 30 seconds** for Day-1 productivity.
+- **Enterprise AI Capability Graph:** Engineered an AI-driven capability graph, transforming unstructured internal documentation into scalable knowledge discovery across **500+ engineers**.
+- **Personalized Learning Engine:** Integrated a skill recommendation engine leveraging a **100+ skill competency matrix** to provide targeted skill, certification, and career-growth roadmaps.
+- **Workforce Analytics & Efficiency:** Built an interactive analytics dashboard on **SQL Server** visualizing team strengths, skill gaps, and resource bottlenecks — **boosting planning efficiency by 150%**.
+- **Multi-Engine AI Kickoffs:** Leveraged **4 AI recommendation engines** analyzing capabilities and readiness scores to optimize team compositions across 3 allocation strategies with LLM-generated sprint plans.
+
+### 🌐 **Google Developer Groups (GDG) DTU & AWS DTU** · *Tech Team Member* `Nov 2024 – Present`
+- Orchestrated **3 impactful technical initiatives** across GDG DTU & AWS Cloud Club DTU, elevating hands-on tech engagement and cloud knowledge sharing for **100+ active members**.
+
+<br/>
+
 <!-- ▄▄▄▄▄▄▄▄▄▄▄ FEATURED: RESUMIND ▄▄▄▄▄▄▄▄▄▄▄ -->
 
 <div align="center">
@@ -76,53 +93,51 @@ const kaartik = {
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=00E5FF&height=45&section=header&text=R%20E%20S%20U%20M%20I%20N%20D&fontSize=20&fontColor=0D1117&fontAlignY=55" width="300" />
 
-**AI-powered Resume Intelligence Platform**
+**Agentic AI Resume Intelligence Platform**
 
 </div>
 
 ### The Problem
-Most resume analyzers provide **shallow ATS scores** and generic feedback — they fail to address industry-specific requirements, phrasing impact, and real recruiter behavior.
+Most resume analyzers offer **shallow ATS keyword scores** and generic advice — failing to evaluate deep technical competencies, real-world recruiter behavior, or role-specific project impact.
 
 ### The Solution
-Resumind combines **OpenAI + Claude** to generate deep technical resume reviews, improvement suggestions, recruiter-focused feedback, and career guidance.
+**Resumind** is an Agentic AI platform that leverages **Puter.js LLMs** to extract structured candidate profiles from PDFs, calculate precise job-fit coverage matrices, and generate **3-tier strategic guidance** (*highlight, modify, build new*) to close skill gaps — integrated with serverless KV caching and Razorpay billing.
 
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-20232A?style=flat&logo=nodedotjs&logoColor=339933" />
-<img src="https://img.shields.io/badge/OpenAI-20232A?style=flat&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-20232A?style=flat&logo=anthropic&logoColor=D97757" />
-<img src="https://img.shields.io/badge/Tailwind-20232A?style=flat&logo=tailwindcss&logoColor=06B6D4" />
+<img src="https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-20232A?style=flat&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/Agentic_AI-20232A?style=flat&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Puter.js-20232A?style=flat&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/TailwindCSS-20232A?style=flat&logo=tailwindcss&logoColor=06B6D4" />
+<img src="https://img.shields.io/badge/Razorpay-20232A?style=flat&logo=razorpay&logoColor=02042B" />
 </p>
 
 ### Architecture
 
 ```
           ╭─────────────────╮
-          │  Resume Upload  │
+          │  Resume Upload  │ (PDF Input)
           ╰────────┬────────╯
                    │
           ╭────────▼────────╮
-          │  Resume Parser  │
+          │  Puter.js LLMs  │ (Structured Candidate Profile Extraction)
           ╰────────┬────────╯
                    │
        ╭───────────┴───────────╮
        │                       │
   ╭────▼─────╮          ╭──────▼─────╮
-  │  OpenAI  │          │   Claude   │
+  │ Job-Fit  │          │  Agentic   │
+  │ Coverage │          │ Evaluation │
   ╰────┬─────╯          ╰──────┬─────╯
        │                       │
        ╰───────────┬───────────╯
                    │
           ╭────────▼────────╮
-          │ Analysis Engine │
+          │ 3-Tier Guidance │ (Highlight · Modify · Build New)
           ╰────────┬────────╯
                    │
           ╭────────▼────────╮
-          │  Smart Report   │
-          ╰────────┬────────╯
-                   │
-          ╭────────▼────────╮
-          │ User Dashboard  │
+          │ User Dashboard  │ (Freemium Access · Razorpay · KV Cache)
           ╰─────────────────╯
 ```
 
@@ -136,27 +151,33 @@ Resumind combines **OpenAI + Claude** to generate deep technical resume reviews,
 
 | Project | Description | Tech Stack | Link |
 |:---|:---|:---|:---:|
-| **🧠 Resumind** | AI-powered resume intelligence platform leveraging multiple LLMs for advanced resume evaluation and optimization. | `OpenAI` `Claude` `React` | — |
-| **📊 ETL Pipeline** | Cloud-based analytics workflow using AWS and Google Looker Studio for automated data processing. | `AWS` `Looker` `Data Eng` | — |
-| **🏠 Roomify** | AI-powered room visualization transforming 2D spaces into photorealistic 3D outputs using advanced image processing. | `React` `TypeScript` `Puter` | — |
-| **💬 Realtime Chat** | High-performance WebSocket chat supporting 2000+ concurrent connections, 100+ rooms, & geo-sharing. | `Socket.IO` `Node.js` | <a href="https://chat-application-qaut.onrender.com">Live</a> |
-| **🛒 E-Commerce** | Production-grade MERN application with JWT auth, role-based access, admin dashboard, and email automation. | `React` `MongoDB` `Express` | — |
-| **💼 Job Portal** | Modern React-based job portal with structured job listings, authentication flow, and responsive UI. | `React` `Tailwind` | <a href="https://github.com/number1coder01/job-portal-react">Repo</a> |
-| **💻 MacBook 3D** | Interactive Three.js + GSAP experience with scroll-driven 3D storytelling and 60FPS animations. | `Three.js` `GSAP` `React` | — |
+| **🧠 Resumind** | Agentic AI resume intelligence engine with Puter.js LLMs, structured PDF candidate extraction, job-fit matrix evaluation, and 3-tier gap recommendations. | `React` `TypeScript` `Puter.js` `Agentic AI` `Razorpay` | — |
+| **🏠 Roomify** | Generative AI architectural visualization transforming 2D spaces into photorealistic 3D room renders in <5s, with serverless KV storage reducing latency by 40%. | `TypeScript` `Puter` `React Router v7` `Tailwind` `Docker` | — |
+| **🛒 E-Commerce Platform** | Production MERN commerce app with 2-tier RBAC, JWT auth, Razorpay HMAC payment verification, Cloudinary CDN, and Gemini 3.5 Flash AI admin analytics. | `React` `Node.js` `Express` `MongoDB` `Gemini AI` `Razorpay` | — |
+| **📊 Cloud ETL Pipeline** | Serverless data engineering workflow using AWS Lambda, Amazon S3, Athena, IAM, and EventBridge with Parquet partitioning and Google Looker Studio BI reports. | `AWS Lambda` `S3` `Athena` `Parquet` `Looker Studio` | — |
+| **💬 Realtime Chat** | High-concurrency WebSocket messaging platform supporting 2000+ simultaneous connections, 100+ dynamic rooms, profanity filtering, & live geolocation sharing. | `Node.js` `Socket.IO` `Express` | <a href="https://chat-application-qaut.onrender.com">Live</a> |
+| **💻 MacBook 3D Showcase** | Immersive WebGL experience featuring Three.js 3D modeling, smooth GSAP timeline animations, and 60FPS scroll-driven cinematic storytelling. | `Three.js` `GSAP` `React` `WebGL` | — |
+| **💼 Job Portal** | Full-featured responsive job platform with structured listings, multi-filter query matching, JWT user authentication, and bookmarking. | `React` `Tailwind CSS` `REST APIs` | <a href="https://github.com/number1coder01/job-portal-react">Repo</a> |
 
 </div>
 
 <br/>
 
-<!-- ▄▄▄▄▄▄▄▄▄▄▄▄ JOURNEY ▄▄▄▄▄▄▄▄▄▄▄▄ -->
+<!-- ▄▄▄▄▄▄▄▄▄▄▄ ACHIEVEMENTS & RECOGNITION ▄▄▄▄▄▄▄▄▄▄▄ -->
 
-## `⏳ Engineering Journey`
+## `🏆 Honors & Achievements`
 
-- **2026** ── 💼 SDE Intern @ Wells Fargo · 🧠 Built Resumind
-- **2025** ── 🎯 Adobe India Hackathon (Top 1.5%) · 🏆 1810 LeetCode Rating
-- **2024** ── 🌐 Full Stack Development · ☁️ Joined GDG DTU & AWS Cloud Club
-- **2023** ── ☕ Java + Data Structures & Algorithms
-- **2022** ── 🚀 Started Programming
+- **🥇 1st Place Winner — Invictus BITS'25 Hackathon** `Jan 2025 – Feb 2025`
+  - Secured **1st position out of 1000+ participants** (Organized by IEEE DTU & Amdocs) with high distinction in core CS, System Design, OS, DBMS, Networks, and DSA.
+- **🎯 Top 1.5% Nationwide — Adobe India Hackathon'25** `Jul 2025 – Aug 2025`
+  - Ranked in the **top 4,000 out of 262,000+ participants** across India after clearing national DSA + CS MCQ selection rounds.
+- **💻 Competitive Programming & Problem Solving** `Sep 2024 – Present`
+  - **1810 LeetCode Contest Rating** (Top 6% worldwide).
+  - **1250+ Data Structures & Algorithms problems solved** across LeetCode, GeeksforGeeks, and HackerRank.
+- **📈 National Entrance Examinations (Maestro Ranker)**
+  - **JEE Mains:** Scored **98.8 Percentile** (AIR 14,450 out of ~1,400,000 candidates).
+  - **BITSAT:** Scored **262** (Top 13,000 out of 350,000+ candidates).
+- **🎓 Academic Rank:** **Class Xth Grade: 98.2%** (Ranked 3rd in school) · **Class XIIth: 93%**.
 
 <br/>
 
@@ -168,13 +189,38 @@ Resumind combines **OpenAI + Claude** to generate deep technical resume reviews,
 
 | Category | Technologies |
 |:---|:---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp&theme=dark" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=spring,nodejs,express,hibernate&theme=dark" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,threejs&theme=dark" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" /> |
-| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman&theme=dark" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts&theme=dark" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,materialui,threejs&theme=dark" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring&theme=dark" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" /> |
+| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman&theme=dark" /> |
+| **Dev Tools & Testing** | `Playwright` `Jest` `Docker` `Render` `Heroku` `SQLAlchemy` `Socket.io` `Puter.js` |
+| **AI & Machine Learning** | `Agentic AI` `RAG` `Vector Databases (Redis)` `OpenAI` `Claude` `Gemini 3.5 Flash` |
 
 </div>
+
+<br/>
+
+<!-- ▄▄▄▄▄▄▄▄▄▄▄ CERTIFICATIONS ▄▄▄▄▄▄▄▄▄▄▄ -->
+
+## `📜 Certifications & Training`
+
+- 🎓 **SDE Interview Prep** — AlgoPrep
+- 🌐 **The Complete Full-Stack Web Development Bootcamp** — Udemy
+- ☕ **Java Backend Development Course** — Certificate
+- 🚀 **The Complete Node.js Developer Course** — Udemy
+
+<br/>
+
+<!-- ▄▄▄▄▄▄▄▄▄▄▄▄ JOURNEY ▄▄▄▄▄▄▄▄▄▄▄▄ -->
+
+## `⏳ Engineering Journey`
+
+- **2026** ── 💼 Technology Program Intern @ Wells Fargo · 🧠 Resumind (Agentic AI)
+- **2025** ── 🥇 Invictus BITS'25 Winner · 🎯 Adobe India Hackathon (Top 1.5%) · 🏆 1810 LeetCode Rating
+- **2024** ── 🌐 Full-Stack Web & Cloud · ☁️ Tech Team @ GDG DTU & AWS DTU
+- **2023** ── ☕ DTU B.Tech IT (CGPA: 8.98) · 📈 98.8%ile JEE Mains (AIR 14,450) & 262 BITSAT
+- **2022** ── 🚀 Started Programming · Data Structures & Algorithms
 
 <br/>
 
@@ -215,7 +261,7 @@ Resumind combines **OpenAI + Claude** to generate deep technical resume reviews,
 
 <br/><br/>
 
-`Rating: 1810` &nbsp;·&nbsp; `1250+ Solved` &nbsp;·&nbsp; `Top 6%` &nbsp;·&nbsp; `Active Contestant`
+`Rating: 1810` &nbsp;·&nbsp; `1250+ Solved` &nbsp;·&nbsp; `Top 6% Worldwide` &nbsp;·&nbsp; `Active Contestant`
 
 </div>
 
@@ -227,12 +273,12 @@ Resumind combines **OpenAI + Claude** to generate deep technical resume reviews,
 
 ## `🌱 Currently Exploring`
 
+<img src="https://img.shields.io/badge/Agentic_AI-0D1117?style=for-the-badge&logo=openai&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/RAG_&_Vector_DBs-0D1117?style=for-the-badge&logo=redis&logoColor=00E5FF" />
 <img src="https://img.shields.io/badge/Distributed_Systems-0D1117?style=for-the-badge&logo=apache-kafka&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/System_Design-0D1117?style=for-the-badge&logo=diagrams.net&logoColor=00E5FF" />
 <img src="https://img.shields.io/badge/Cloud_Architecture-0D1117?style=for-the-badge&logo=amazonaws&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/AI_Agents-0D1117?style=for-the-badge&logo=openai&logoColor=00E5FF" />
 <img src="https://img.shields.io/badge/Data_Engineering-0D1117?style=for-the-badge&logo=apache-spark&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/Scalable_Backends-0D1117?style=for-the-badge&logo=spring&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Automated_Testing-0D1117?style=for-the-badge&logo=playwright&logoColor=00E5FF" />
 
 </div>
 
@@ -246,7 +292,7 @@ Resumind combines **OpenAI + Claude** to generate deep technical resume reviews,
 
 <samp>
 
-**Building products, solving problems, and exploring the systems behind them.**
+**Building products, solving problems, and engineering scalable intelligent systems.**
 
 </samp>
 
@@ -254,8 +300,8 @@ Resumind combines **OpenAI + Claude** to generate deep technical resume reviews,
 
 <a href="https://kaartikarora-dev.onrender.com"><img src="https://img.shields.io/badge/✦_Portfolio-00E5FF?style=flat-square&logoColor=black" /></a>&nbsp;
 <a href="https://linkedin.com/in/kaartikarora01"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="mailto:kaartikarora0001@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://leetcode.com/u/Kaartik_Arora/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
+<a href="https://leetcode.com/u/Kaartik_Arora/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>&nbsp;
+<a href="mailto:kaartikarora0001@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
