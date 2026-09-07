@@ -5,7 +5,7 @@
 
 <!-- ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ HEADER ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ -->
 
-<img src="assets/banner.png" height="60%" width="100%" alt="Kaartik Arora Banner" />
+<img src="assets/banner.png" height="30%" width="100%" alt="Kaartik Arora Banner" />
 
 <div align="center">
   <a href="https://kaartikarora-dev.onrender.com"><img src="https://img.shields.io/badge/%E2%9C%A6_Portfolio-00E5FF?style=for-the-badge&logoColor=black" /></a>
