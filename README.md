@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://kaartikarora-dev.onrender.com"><img src="https://img.shields.io/badge/%E2%9C%A6_Portfolio-00E5FF?style=for-the-badge&logoColor=black" /></a>
-  <a href="https://drive.google.com/file/d/1emgdC8KTqcL35wki3gfRyMvOpwYnp0Hd/view?usp=sharing"><img src="https://img.shields.io/badge/%E2%87%A9_Resume-10B981?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1pH0Vgn8Dqcmi4kFjPzwrB4pkK2fBRaX3/view?usp=sharing"><img src="https://img.shields.io/badge/%E2%87%A9_Resume-10B981?style=for-the-badge&logoColor=white" /></a>
   <a href="https://linkedin.com/in/kaartikarora01"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/Kaartik_Arora/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="mailto:kaartikarora0001@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -18,10 +18,10 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Building+Agentic+AI+products+%26+scalable+systems;1810+LeetCode+%C2%B7+Wells+Fargo+%C2%B7+DTU+%C2%B7+Top+6%25;Cloud+Pipelines+%C2%B7+Full-Stack+%C2%B7+1250%2B+Problems+Solved" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=3500&pause=800&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=115&lines=Building+Agentic+AI+products+%26+scalable+systems;1810+LeetCode+%C2%B7+Wells+Fargo+%C2%B7+DTU+%C2%B7+Top+6%25;Cloud+Pipelines+%C2%B7+Full-Stack+%C2%B7+1250%2B+Problems+Solved" />
 </div>
 
-<br/>
+<br/><br/>
 
 <!-- ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ STATS BANNER ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ -->
 
@@ -230,20 +230,16 @@ Most resume analyzers offer **shallow ATS keyword scores** and generic advice �
 
 ## `📈 GitHub Analytics`
 
-<img src="https://github-profile-trophy.vercel.app/?username=number1coder01&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
+<img src="https://github-profile-trophy-nu.vercel.app/?username=number1coder01&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=number1coder01&show_icons=true&hide_border=true&count_private=true&icon_color=00E5FF&title_color=00E5FF&text_color=A1A1AA&bg_color=0D1117" height="170" />&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=number1coder01&layout=compact&hide_border=true&langs_count=8&title_color=00E5FF&text_color=A1A1AA&bg_color=0D1117" height="170" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=number1coder01&show_icons=true&hide_border=true&count_private=true&icon_color=00E5FF&title_color=00E5FF&text_color=A1A1AA&bg_color=0D1117" height="170" />&nbsp;&nbsp;
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=number1coder01&layout=compact&hide_border=true&langs_count=8&title_color=00E5FF&text_color=A1A1AA&bg_color=0D1117" height="170" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=number1coder01&hide_border=true&background=0D1117&stroke=00E5FF33&ring=00E5FF&fire=10B981&currStreakLabel=00E5FF&sideLabels=A1A1AA&dates=A1A1AA&currStreakNum=FFFFFF&sideNums=FFFFFF" width="55%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=number1coder01&theme=react-dark&hide_border=true&bg_color=0D1117&color=A1A1AA&line=00E5FF&point=10B981&area=true&area_color=00E5FF" width="90%" />
+<img src="https://streak-stats.demolab.com/?user=number1coder01&hide_border=true&background=0D1117&stroke=00E5FF33&ring=00E5FF&fire=10B981&currStreakLabel=00E5FF&sideLabels=A1A1AA&dates=A1A1AA&currStreakNum=FFFFFF&sideNums=FFFFFF" width="55%" />
 
 </div>
 
